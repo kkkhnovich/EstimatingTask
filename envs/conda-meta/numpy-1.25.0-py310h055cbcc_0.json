@@ -1,0 +1,43 @@
+{
+  "build": "py310h055cbcc_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2023.1.0,<2024.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 1.25.0 py310h65a83cf_0",
+    "python >=3.10,<3.11.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.27.29016,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\0971~1\\AppData\\Local\\Temp\\_MEI136362\\pkgs\\numpy-1.25.0-py310h055cbcc_0",
+  "features": "",
+  "files": [],
+  "fn": "numpy-1.25.0-py310h055cbcc_0.conda",
+  "legacy_bz2_md5": "40a53dea268c1294f4cf572271e97c57",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\0971~1\\AppData\\Local\\Temp\\_MEI136362\\pkgs\\numpy-1.25.0-py310h055cbcc_0",
+    "type": 1
+  },
+  "md5": "7bd14df2717def0412015cbb2f9a596f",
+  "name": "numpy",
+  "package_tarball_full_path": "C:\\Users\\0971~1\\AppData\\Local\\Temp\\_MEI136362\\pkgs\\numpy-1.25.0-py310h055cbcc_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bce818101f6366fadfb9ec75561385ed0c199f16aa57ec8834f2a86e19b109a9",
+  "size": 13094,
+  "subdir": "win-64",
+  "timestamp": 1687472741810,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/numpy-1.25.0-py310h055cbcc_0.conda",
+  "version": "1.25.0"
+}
